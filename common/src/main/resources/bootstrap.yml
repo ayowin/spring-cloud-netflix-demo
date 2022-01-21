@@ -6,6 +6,3 @@ spring:
       uri: http://localhost:8001/
       profile: default
       label: master
-
-server:
-  port: 78

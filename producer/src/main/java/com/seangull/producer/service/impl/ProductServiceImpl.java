@@ -2,8 +2,6 @@ package com.seangull.producer.service.impl;
 
 import com.alibaba.fastjson.JSONObject;
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
-import com.seangull.dao.entity.Product;
-import com.seangull.dao.mapper.ProductMapper;
 import com.seangull.producer.service.ProductService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

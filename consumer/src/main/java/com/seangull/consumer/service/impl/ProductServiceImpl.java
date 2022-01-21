@@ -3,8 +3,6 @@ package com.seangull.consumer.service.impl;
 import com.alibaba.fastjson.JSONObject;
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.seangull.consumer.service.ProductService;
-import com.seangull.dao.entity.Product;
-import com.seangull.dao.mapper.ProductMapper;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
