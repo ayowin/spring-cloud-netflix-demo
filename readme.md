@@ -1,6 +1,6 @@
 [toc]
 
-# sping-cloud-netflix-demo
+# spring-cloud-netflix-demo
 spring cloud netflix版本的demo，整个工程为一个多模块maven工程，以下对各模块逐一介绍。
 
 ---
